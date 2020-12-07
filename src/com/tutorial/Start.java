@@ -2,6 +2,11 @@ package com.tutorial;
 
 public class Start {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        printHead();
+        System.out.println("Hello World");
+    }
+
+    private static void printHead() {
+        System.out.println("Start");
     }
 }
