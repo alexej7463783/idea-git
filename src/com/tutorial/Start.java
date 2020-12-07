@@ -6,6 +6,9 @@ public class Start {
         System.out.println("Hello World");
     }
 
+    /**
+     * Printing the Head
+     */
     private static void printHead() {
         System.out.println("Start");
     }
